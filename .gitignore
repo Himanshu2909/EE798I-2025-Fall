@@ -1,1 +1,5 @@
 /Private
+/COMSOL_learn
+/Course Project/Private
+*.mph
+*.mph.lock

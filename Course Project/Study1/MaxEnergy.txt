@@ -1,0 +1,7 @@
+% Model:              Main1-recovery2.mph
+% Version:            COMSOL 6.3.0.290
+% Date:               Nov 14 2025, 04:19
+% Table:              Table 14 - Surface Maximum 1
+% Eigenfrequency (THz)                            Total electric energy (J)
+470.79906184212837+1.409084024533495i             1.4092873939736787E-15
+471.60161989479786+1.657490998419786i             1.340408679107424E-15

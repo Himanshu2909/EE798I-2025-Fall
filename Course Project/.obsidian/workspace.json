@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "cf0175e401b120a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7676cbdf4b5ab4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "785dd83bddac1c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abstract Breakdown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abstract Breakdown"
+            }
+          },
+          {
+            "id": "9d4ff8aa0af94089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan-Gemini.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plan-Gemini"
+            }
+          },
+          {
+            "id": "2e61948c1a642852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan-GPT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plan-GPT"
+            }
+          },
+          {
+            "id": "d98e12b1e4a70d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan-Gemini2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plan-Gemini2"
+            }
+          },
+          {
+            "id": "2a18b4c919c6f7b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan-Gemini2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plan-Gemini2"
+            }
+          },
+          {
+            "id": "320907c5287078a9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Abstract.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Abstract"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6aacec8d94d7055",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bba2167fc5ab875",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aff3e53dbb175758",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5dc28f4351a0e0cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "55a35c13a39759db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6802d73d80cc36a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a02e98c4c5889ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d58626b0b210a22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Term Paper - Gemini.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Term Paper - Gemini"
+            }
+          },
+          {
+            "id": "d5ce35374a2f5925",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Term Paper - Gemini.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Term Paper - Gemini"
+            }
+          },
+          {
+            "id": "f4b1ac67bb254580",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "41d25f00ec77ab5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Term Paper - Gemini.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Term Paper - Gemini"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d98e12b1e4a70d0c",
+  "lastOpenFiles": [
+    "Study1/Main2mph.mph",
+    "Study1/Main1-recovery2.mph",
+    "Study1/Main1-recovery2.mph.lock",
+    "Study1/Main1-recovery1.mph",
+    "Study1/Main1.mph",
+    "Study1/Main1.mph.lock",
+    "Main2mph.mph.lock",
+    "Micro_Ring_Resonator_COMSOL_Project.pptx",
+    "Main1-recovery2.mph",
+    "~model10833522267316083350.mph",
+    "Study1/Q_Factor.txt",
+    "Study1/MeshScaleSweepConvergence.png",
+    "Study1/MeshScaleSweepConvergence_mid.png",
+    "Study1/MeshScaleSweepConvergence_refined.png",
+    "MeshScaleSweepConvergence.png",
+    "MeshScaleSweepConvergence_mid.png",
+    "MeshScaleSweepConvergence_refined.png",
+    "Term Paper - Gemini.md",
+    "Plan-GPT.md",
+    "Plan-Gemini2.md",
+    "Plan-Gemini.md",
+    "Abstract Breakdown.md"
+  ]
+}
