@@ -4,93 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d7676cbdf4b5ab4e",
+        "id": "7cb91f56e97a196b",
         "type": "tabs",
         "children": [
           {
-            "id": "785dd83bddac1c92",
+            "id": "846b2277c1a00ca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Breakdown.md",
+                "file": "Private/Term Paper - Gemini.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract Breakdown"
-            }
-          },
-          {
-            "id": "9d4ff8aa0af94089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plan-Gemini.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plan-Gemini"
-            }
-          },
-          {
-            "id": "2e61948c1a642852",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plan-GPT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plan-GPT"
-            }
-          },
-          {
-            "id": "d98e12b1e4a70d0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plan-Gemini2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plan-Gemini2"
-            }
-          },
-          {
-            "id": "2a18b4c919c6f7b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plan-Gemini2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plan-Gemini2"
-            }
-          },
-          {
-            "id": "320907c5287078a9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Abstract.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Abstract"
+              "title": "Term Paper - Gemini"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,8 +169,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "d98e12b1e4a70d0c",
+  "active": "846b2277c1a00ca1",
   "lastOpenFiles": [
+    "Private/Plan-Gemini2.md",
+    "Private/Plan-Gemini.md",
     "Study1/Main2mph.mph",
     "Study1/Main1-recovery2.mph",
     "Study1/Main1-recovery2.mph.lock",
@@ -250,7 +183,6 @@
     "Micro_Ring_Resonator_COMSOL_Project.pptx",
     "Main1-recovery2.mph",
     "~model10833522267316083350.mph",
-    "Study1/Q_Factor.txt",
     "Study1/MeshScaleSweepConvergence.png",
     "Study1/MeshScaleSweepConvergence_mid.png",
     "Study1/MeshScaleSweepConvergence_refined.png",

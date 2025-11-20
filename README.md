@@ -26,3 +26,40 @@ EE798I-Nanophotonics
 ### Resources:
 1. Haus, Chapter 1
 2. Haus, Chapter 2.1 to 2.5
+
+## Endsem Syllabus
+
+### Topics
+- [ ] Quarter Wave Dielectric Layers
+- [ ] Dielectric Slab WaveGuide
+	- [ ] TE Modes - Even
+	- [ ] TE Modes - Odd
+	- [ ] TM Modes - Even
+	- [ ] TM Modes - Odd
+	- [ ] Power Flow
+	- [ ] Group Velocity and Dispersion
+- [ ] Pulse Propagation & Gaussian Beams
+	- [ ] Carrier and Envelope
+	- [ ] Gaussian Pulse Broadening
+	- [ ] Dispersive pulse broadening derivation
+- [ ] Photonic Crystals
+	- [ ] Bloch's Theorem
+	- [ ] Spatial Harmonics
+	- [ ] Diffraction Grating Equation
+	- [ ] Waveguide Grating Couplers
+	- [ ] Phase Matching Derivation
+	- [ ] Transfer Matrix Method
+- [ ] Band Structure & Bragg Scattering
+	- [ ] Zone Schemes
+	- [ ] Bragg Scattering Derivation
+- [ ] Coupled Mode Theory
+
+
+### Resources
+1. Haus, Chapter 6.3, 6.4
+2. Yariv, Chapter 3
+3. Yariv, Chapter 9.8
+4. Yariv, Chapter 12
+5. Yariv, Chapter 13
+6. Haus, Chapter 7.5, 7.6, 7.7
+7. Optional: Yariv, Chapter 4
