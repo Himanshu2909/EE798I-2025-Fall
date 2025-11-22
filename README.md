@@ -4,23 +4,23 @@ EE798I-Nanophotonics
 ## Midsem Syllabus
 
 ### Topics
-- [x] Maxwells Equations in time domain
-- [x] Maxwells Equations in frequency domain (differential form): [Notes](https://courses.grainger.illinois.edu/ece329/sp2021/Lecture_handouts/Lecture%2023%20handout.pdf)
-- [x] Maxwells Equations in frequency domain (integral form)
-- [x] Constitutive Relations
-- [x] Poynting's Theorem & Poynting Vector
-- [x] Energy Conservation Relation
-- [x] Complex Poynting Vector
-- [x] Symmetries: The questions cover scaling invariance and time-reversal symmetry
-- [x] The Wave Equation & Plane Wave Solutions
-- [x] Polarization
-- [x] Wave Superposition
-- [x] Boundary Conditions
-- [x] Reflection and Transmission
-- [x] Fresnel Equations for TE (s) and TM (p) Polarization
-- [x] Propagation in Lossy Media
-- [x] The Brewster Angle
-- [x] Total Internal Reflection
+- [ ] Maxwells Equations in time domain
+- [ ] Maxwells Equations in frequency domain (differential form): [Notes](https://courses.grainger.illinois.edu/ece329/sp2021/Lecture_handouts/Lecture%2023%20handout.pdf)
+- [ ] Maxwells Equations in frequency domain (integral form)
+- [ ] Constitutive Relations
+- [ ] Poynting's Theorem & Poynting Vector
+- [ ] Energy Conservation Relation
+- [ ] Complex Poynting Vector
+- [ ] Symmetries: The questions cover scaling invariance and time-reversal symmetry
+- [ ] The Wave Equation & Plane Wave Solutions
+- [ ] Polarization
+- [ ] Wave Superposition
+- [ ] Boundary Conditions
+- [ ] Reflection and Transmission
+- [ ] Fresnel Equations for TE (s) and TM (p) Polarization
+- [ ] Propagation in Lossy Media
+- [ ] The Brewster Angle
+- [ ] Total Internal Reflection
 - [ ] Quarter Wave Dielectric Layers
 
 ### Resources:
@@ -30,8 +30,7 @@ EE798I-Nanophotonics
 ## Endsem Syllabus
 
 ### Topics
-- [ ] Quarter Wave Dielectric Layers
-- [ ] Dielectric Slab WaveGuide
+- [ ] Dielectric Slab WaveGuide (Haus, Chapter 6)
 	- [ ] TE Modes - Even
 	- [ ] TE Modes - Odd
 	- [ ] TM Modes - Even
@@ -39,24 +38,25 @@ EE798I-Nanophotonics
 	- [ ] Power Flow
 	- [ ] Group Velocity and Dispersion
 - [ ] Pulse Propagation & Gaussian Beams
-	- [ ] Carrier and Envelope
-	- [ ] Gaussian Pulse Broadening
-	- [ ] Dispersive pulse broadening derivation
+	- [ ] Carrier and Envelope (Haus, Chapter 6)
+	- [ ] Gaussian Pulse Broadening, Group Velocity Dispersion(second order approximation) (Haus, Chapter 6)
 - [ ] Photonic Crystals
-	- [ ] Bloch's Theorem
-	- [ ] Spatial Harmonics
+	- [ ] Bloch's Theorem (Yariv, Chapter 12)
+	- [ ] Spatial Harmonics (Yariv, Chapter 12)
 	- [ ] Diffraction Grating Equation
 	- [ ] Waveguide Grating Couplers
-	- [ ] Phase Matching Derivation
-	- [ ] Transfer Matrix Method
-- [ ] Band Structure & Bragg Scattering
-	- [ ] Zone Schemes
-	- [ ] Bragg Scattering Derivation
+	- [ ] Transfer Matrix Method (Yariv, Chapter 12)
+	- [ ] off normal propagation
+	- [ ] Omnidirectional mirror: TE modes, TM modes (Paper in 'Resources' folder)
+	- [ ] Omniguide fiber
+- [ ] Band Structure and Zone Schemes
+- [ ] Bragg Scattering Derivation
 - [ ] Coupled Mode Theory
-
+	- [ ] 2 parallel waveguides
+	- [ ] Ring Resonator
 
 ### Resources
-1. Haus, Chapter 6.3, 6.4
+1. Haus, Chapter 6.3, 6.4, 6.9, 6.6
 2. Yariv, Chapter 3
 3. Yariv, Chapter 9.8
 4. Yariv, Chapter 12
